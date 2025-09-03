@@ -1,3 +1,5 @@
+## About Me!
+
 - 👋 Hi, I’m James!<br/>
 - 🧑‍💻 IT Student at PUP<br/>
 - 👀 I’m interested in UI/UX design and Frontend Development!<br/>
